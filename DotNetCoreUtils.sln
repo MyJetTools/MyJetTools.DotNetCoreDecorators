@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreDecorators", "DotNetCoreDecorators\DotNetCoreDecorators.csproj", "{E2C304AF-363C-4044-BED8-4956A112E59B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreDecorators.Tests", "DotNetCoreDecorators.Tests\DotNetCoreDecorators.Tests.csproj", "{AE477833-B903-4594-9E20-52369BD39C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C304AF-363C-4044-BED8-4956A112E59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C304AF-363C-4044-BED8-4956A112E59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C304AF-363C-4044-BED8-4956A112E59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C304AF-363C-4044-BED8-4956A112E59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE477833-B903-4594-9E20-52369BD39C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE477833-B903-4594-9E20-52369BD39C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE477833-B903-4594-9E20-52369BD39C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE477833-B903-4594-9E20-52369BD39C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
